@@ -1,0 +1,18 @@
+# test log
+getenv ADAPTER_NO_STREAM
+getenv ADAPTER_NO_STREAM
+getenv ADAPTER_NO_STREAM
+getenv ADAPTER_NO_STREAM
+getenv ADAPTER_NO_STREAM
+stat /home/alejandroseaah/.codex/sessions/2025/10/28/rollout-2025-10-28T00-45-58-70a339ef-0669-4cce-9a68-32d3c8f59a5e.jsonl
+stat /home/alejandroseaah/.claude/projects/-home-alejandroseaah-api-adapter/12be9ce7-b8f1-4f60-8d52-41872010610d.jsonl
+open /home/alejandroseaah/.codex/sessions/2025/10/28/rollout-2025-10-28T00-45-58-70a339ef-0669-4cce-9a68-32d3c8f59a5e.jsonl
+open /home/alejandroseaah/.claude/projects/-home-alejandroseaah-api-adapter/12be9ce7-b8f1-4f60-8d52-41872010610d.jsonl
+stat /home/alejandroseaah/.codex/sessions/2025/10/28/rollout-2025-10-28T00-45-58-70a339ef-0669-4cce-9a68-32d3c8f59a5e.jsonl
+stat /home/alejandroseaah/.claude/projects/-home-alejandroseaah-api-adapter/12be9ce7-b8f1-4f60-8d52-41872010610d.jsonl
+open /home/alejandroseaah/.claude/projects/-home-alejandroseaah-api-adapter/12be9ce7-b8f1-4f60-8d52-41872010610d.jsonl
+open /home/alejandroseaah/.codex/sessions/2025/10/28/rollout-2025-10-28T00-45-58-70a339ef-0669-4cce-9a68-32d3c8f59a5e.jsonl
+stat /home/alejandroseaah/.codex/sessions/2025/10/28/rollout-2025-10-28T00-45-58-70a339ef-0669-4cce-9a68-32d3c8f59a5e.jsonl
+open /home/alejandroseaah/.codex/sessions/2025/10/28/rollout-2025-10-28T00-45-58-70a339ef-0669-4cce-9a68-32d3c8f59a5e.jsonl
+stat /home/alejandroseaah/.claude/projects/-home-alejandroseaah-api-adapter/12be9ce7-b8f1-4f60-8d52-41872010610d.jsonl
+open /home/alejandroseaah/.claude/projects/-home-alejandroseaah-api-adapter/12be9ce7-b8f1-4f60-8d52-41872010610d.jsonl

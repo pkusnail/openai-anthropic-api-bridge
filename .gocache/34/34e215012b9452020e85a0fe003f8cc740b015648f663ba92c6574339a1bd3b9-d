@@ -1,0 +1,17 @@
+# test log
+getenv MODEL_MAP
+getenv OPENAI_MODEL
+getenv MODEL_MAP
+getenv OPENAI_MODEL
+getenv OPENAI_BASE_URL
+getenv OPENAI_API_KEY
+getenv ADAPTER_NO_STREAM
+getenv MODEL_MAP
+getenv OPENAI_MODEL
+getenv OPENAI_BASE_URL
+getenv OPENAI_API_KEY
+getenv ADAPTER_NO_STREAM
+getenv MODEL_MAP
+getenv OPENAI_MODEL
+getenv OPENAI_BASE_URL
+getenv OPENAI_API_KEY

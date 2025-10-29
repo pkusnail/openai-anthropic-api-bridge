@@ -1,0 +1,26 @@
+=== RUN   TestConvertMessages_SimpleText
+--- PASS: TestConvertMessages_SimpleText (0.00s)
+=== RUN   TestSystem_AsArrayOfText
+--- PASS: TestSystem_AsArrayOfText (0.00s)
+=== RUN   TestConvertMessages_UserWithToolResultOrdering
+--- PASS: TestConvertMessages_UserWithToolResultOrdering (0.00s)
+=== RUN   TestConvertMessages_AssistantWithToolUse
+--- PASS: TestConvertMessages_AssistantWithToolUse (0.00s)
+=== RUN   TestAnthropicToOpenAI_BuildsRequestFields
+--- PASS: TestAnthropicToOpenAI_BuildsRequestFields (0.00s)
+=== RUN   TestConvertMessages_AssistantToolOnly
+--- PASS: TestConvertMessages_AssistantToolOnly (0.00s)
+=== RUN   TestOpenAIToAnthropic_NonStreaming
+--- PASS: TestOpenAIToAnthropic_NonStreaming (0.00s)
+=== RUN   TestMessagesHandler_NonStreaming
+--- PASS: TestMessagesHandler_NonStreaming (0.00s)
+=== RUN   TestMessagesHandler_Streaming
+--- PASS: TestMessagesHandler_Streaming (0.00s)
+=== RUN   TestMessagesHandler_ForceNoStream
+--- PASS: TestMessagesHandler_ForceNoStream (0.00s)
+=== RUN   TestChatCompletions_NonStreaming
+--- PASS: TestChatCompletions_NonStreaming (0.00s)
+=== RUN   TestChatCompletions_Streaming_WithToolArgs
+--- PASS: TestChatCompletions_Streaming_WithToolArgs (0.00s)
+PASS
+ok  	claude-openai-adapter	0.007s
